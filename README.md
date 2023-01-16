@@ -1,7 +1,6 @@
 👋 Hi, I’m @MarkoMikaelT
 - This is my personal git where you can find my little programs.
 - I'm currently studying BE in ICT engineering.
-- Lately I've been learning some Python.
 
 <!---
 MarkoMikaelT/MarkoMikaelT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
